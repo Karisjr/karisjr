@@ -10,13 +10,13 @@
 <br />
 👩‍🦱 My name is Karis!
 <br />
-⚖ I use to work in the finance industry, making sure the books balance
+⚖ Previously, I worked in the finance industry, making sure the books balance
 <br />
 👀 However, the tech industry caught my eye...
 <br />
 🌱 I’m currently training to become a data engineer
 <br />
-🌍 I am completing my training with Spart Global
+🌍 I am completing my training with Sparta Global
 
 
 
