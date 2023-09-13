@@ -1,4 +1,14 @@
-### Hi there 👋
+#✨ _KarisJR_ ✨
+
+## 👋 Well, hello there...
+
+👩‍🦱 My name is Karis!
+⚖ I use to work in the finance industry, making sure the books balance
+👀 However, the tech industry caught my eye...
+🌱 I’m currently training to become a data engineer
+🌍 I am completing my training with [Spart Global](https://www.spartaglobal.com/)
+
+
 
 <!--
 **Karisjr/karisjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
