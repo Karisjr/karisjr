@@ -1,6 +1,5 @@
-✨ #*KarisJR* ✨
-<br />
-## 👋 Well, hello there...
+
+# 👋 Hello!
 <br />
 <br />
 👩‍🦱 My name is Karis!
