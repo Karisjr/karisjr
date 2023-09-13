@@ -1,6 +1,12 @@
 
 # 👋 Hello!
 <br />
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Karisjr)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karisjr/)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:karisjreimers@outlook.com)
+
+
 <br />
 👩‍🦱 My name is Karis!
 <br />
