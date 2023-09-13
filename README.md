@@ -10,7 +10,7 @@
 <br />
 🌱 I’m currently training to become a data engineer
 <br />
-🌍 I am completing my training with [Spart Global](https://www.spartaglobal.com/)
+🌍 I am completing my training with Spart Global
 
 
 
