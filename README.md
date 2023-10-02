@@ -12,7 +12,7 @@
 <br />
 ⚖ Previously, I worked in the finance industry, making sure the books balance
 <br />
-👀 However, the tech industry caught my eye...
+👀 However, I was intrigued by how we use big data to make future decisions in companies...
 <br />
 🌱 I’m currently training to become a data engineer
 <br />
