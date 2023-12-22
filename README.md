@@ -14,9 +14,7 @@
 <br />
 👀 However, I was intrigued by how we use big data to make future decisions in companies...
 <br />
-🌱 I’m currently training to become a data engineer
-<br />
-🌍 I am completing my training with Sparta Global
+🌱 I’m currently working as a Data Analyst and training to become a data engineer!
 
 
 
